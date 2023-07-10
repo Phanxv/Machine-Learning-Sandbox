@@ -1,0 +1,10 @@
+Decision tree
+1.
+a) Color, Size, Shape
+b) green, red, blue, big, small, square, round
+c) +, -
+
+2.
+a) Outlook, Humid, Windy
+b) Sunny, Overcast, Rain, High, Normal, Weak, Strong
+c) Play (Yes, No)
